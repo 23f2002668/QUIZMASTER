@@ -35,7 +35,7 @@ matplotlib.use('Agg')
 
 # Create Object For Flask Application
 app = Flask(__name__)
-CORS(app)  # Enable CORS globally
+CORS(app, origins="https://quizmaster-ogkp.vercel.app")  # Enable CORS globally
 
 # Define Secret Key
 # Purpose ==> 1. Session Management,  2. CSRF Protection  &  3. Signing Cookies
@@ -2444,7 +2444,7 @@ def logout(email):
     return jsonify(message="Logged out successfully"), 200
 
 
-if __name__ == "__main__":
-    port = int(os.environ.get("PORT", 8000))  # Use environment PORT if provided
-    app.debug = True
-    app.run(host="0.0.0.0", port=port)
+#if __name__ == "__main__":
+    #port = int(os.environ.get("PORT", 8000))  # Use environment PORT if provided
+    #app.debug = True
+    #app.run(host="0.0.0.0", port=port)
