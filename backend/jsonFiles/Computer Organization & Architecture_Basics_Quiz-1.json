@@ -1,0 +1,202 @@
+{
+  "1": [
+    "Which of the following is the primary function of the ALU in a CPU?",
+    [
+      "(a) Manage memory allocation",
+      "(b) Perform arithmetic and logical operations",
+      "(c) Control data flow between registers",
+      "(d) Store instructions for execution"
+    ],
+    "(b) Perform arithmetic and logical operations"
+  ],
+  "10": [
+    "Pipelining in CPU architecture is used to:",
+    [
+      "(a) Improve power consumption",
+      "(b) Reduce the number of registers",
+      "(c) Execute multiple instructions simultaneously",
+      "(d) Increase memory size"
+    ],
+    "(c) Execute multiple instructions simultaneously"
+  ],
+  "11": [
+    "What is the main advantage of RISC architecture over CISC?",
+    [
+      "(a) More instructions",
+      "(b) Complex addressing modes",
+      "(c) Simpler and faster instruction execution",
+      "(d) Requires more power"
+    ],
+    "(c) Simpler and faster instruction execution"
+  ],
+  "12": [
+    "Which component is responsible for converting assembly language into machine language?",
+    [
+      "(a) Assembler",
+      "(b) Compiler",
+      "(c) Linker",
+      "(d) Interpreter"
+    ],
+    "Assembler"
+  ],
+  "13": [
+    "What is the role of a multiplexer in a computer system?",
+    [
+      "(a) To store multiple values",
+      "(b) To select one output from multiple inputs",
+      "(c) To execute instructions",
+      "(d) To transfer power"
+    ],
+    "(b) To select one output from multiple inputs"
+  ],
+  "14": [
+    "Which type of memory is the fastest?",
+    [
+      "(a) Hard disk",
+      "(b) RAM",
+      "(c) Cache",
+      "(d) Registers"
+    ],
+    "Registers"
+  ],
+  "15": [
+    "The function of an instruction register (IR) is to:",
+    [
+      "(a) Store executed instructions",
+      "(b) Hold the instruction being executed",
+      "(c) Manage input/output operations",
+      "(d) Control memory access"
+    ],
+    "(b) Hold the instruction being executed"
+  ],
+  "16": [
+    "The term 'DMA' stands for:",
+    [
+      "(a) Direct Memory Access",
+      "(b) Data Management Algorithm",
+      "(c) Disk Memory Architecture",
+      "(d) Digital Memory Assignment"
+    ],
+    "Direct Memory Access"
+  ],
+  "17": [
+    "What is the purpose of a stack in a computer system?",
+    [
+      "(a) To store large amounts of data permanently",
+      "(b) To manage function calls and execution flow",
+      "(c) To handle external device communication",
+      "(d) To act as a secondary memory"
+    ],
+    "(b) To manage function calls and execution flow"
+  ],
+  "18": [
+    "Which of the following is an example of an I/O interface standard?",
+    [
+      "(a) USB",
+      "(b) RAM",
+      "(c) ROM",
+      "(d) Cache"
+    ],
+    "USB"
+  ],
+  "19": [
+    "The term 'thrashing' in memory management refers to:",
+    [
+      "(a) High CPU utilization",
+      "(b) Continuous swapping of pages between RAM and disk",
+      "(c) Overheating of the processor",
+      "(d) High-speed data transfer"
+    ],
+    "(b) Continuous swapping of pages between RAM and disk"
+  ],
+  "2": [
+    "What does the term 'Von Neumann architecture' refer to?",
+    [
+      "(a) Separate memory for instructions and data",
+      "(b) A type of cache memory",
+      "(c) A single memory for both instructions and data",
+      "(d) A type of parallel processing"
+    ],
+    "(c) A single memory for both instructions and data"
+  ],
+  "20": [
+    "What is the purpose of a control hazard in pipelining?",
+    [
+      "(a) To improve processing speed",
+      "(b) To detect power failures",
+      "(c) To handle branch instructions that disrupt normal flow",
+      "(d) To store floating-point operations"
+    ],
+    "(c) To handle branch instructions that disrupt normal flow"
+  ],
+  "3": [
+    " In a computer system, what does 'bus' refer to?",
+    [
+      "(a) A storage device",
+      "(b) A set of parallel wires for data transfer",
+      "(c) A power supply component",
+      "A type of cache memory"
+    ],
+    "(b) A set of parallel wires for data transfer"
+  ],
+  "4": [
+    "What is the purpose of a cache memory?",
+    [
+      "(a) To store permanent data",
+      "(b) To increase processing speed by storing frequently accessed data",
+      "(c) To act as a secondary storage device",
+      "(d) To replace RAM"
+    ],
+    "(b) To increase processing speed by storing frequently accessed data"
+  ],
+  "5": [
+    "Which type of memory is non-volatile?",
+    [
+      "(a) RAM",
+      "(b) Cache",
+      "(c) ROM",
+      "(d) Registers"
+    ],
+    "ROM"
+  ],
+  "6": [
+    "The control unit (CU) in a CPU is responsible for:",
+    [
+      "(a) Executing arithmetic calculations",
+      "(b) Controlling the operation of input/output devices",
+      "(c) Fetching, decoding, and executing instructions",
+      "(d) Storing program instructions"
+    ],
+    "(c) Fetching, decoding, and executing instructions"
+  ],
+  "7": [
+    "Which of the following is NOT a type of addressing mode?",
+    [
+      "(a) Immediate",
+      "(b) Direct",
+      "(c) Sequential",
+      "(d) Indirect"
+    ],
+    "Sequential"
+  ],
+  "8": [
+    "What is the primary purpose of a register in a CPU?",
+    [
+      "(a) To store large amounts of data",
+      "(b) To store frequently used instructions and data temporarily",
+      "(c) To hold the operating system",
+      "(d) To manage disk storage"
+    ],
+    "(b) To store frequently used instructions and data temporarily"
+  ],
+  "9": [
+    "What is the function of a memory management unit (MMU)?",
+    [
+      "(a) Manages CPU registers",
+      "(b) Handles input/output operations",
+      "(c) Translates logical addresses to physical addresses",
+      "(d) Manages power supply"
+    ],
+    "(c) Translates logical addresses to physical addresses"
+  ]
+}

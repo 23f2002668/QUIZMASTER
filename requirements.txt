@@ -1,0 +1,15 @@
+Flask
+flask-cors
+passlib
+flask-sqlalchemy
+matplotlib
+reportlab
+flask_mail
+openpyxl
+numpy
+pandas
+xlsxwriter
+celery
+redis
+flask-mail
+gunicorn
